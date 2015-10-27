@@ -1,5 +1,5 @@
-alip-default-settings (0.1) UNRELEASED; urgency=medium
+alip-default-settings (0.1) jessie; urgency=medium
 
   * Initial upload
 
- -- Ricardo Salveti de Araujo <rsalveti@rsalveti.net>  Tue, 27 Oct 2015 01:01:29 -0200
+ -- Ricardo Salveti de Araujo <ricardo.salveti@linaro.org>  Tue, 27 Oct 2015 01:01:29 -0200
