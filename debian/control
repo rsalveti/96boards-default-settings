@@ -4,6 +4,8 @@ Priority: optional
 Maintainer: Ricardo Salveti <ricardo.salveti@linaro.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
+Vcs-Git: https://github.com/rsalveti/alip-default-settings.git
+Homepage: https://github.com/rsalveti/alip-default-settings
 
 Package: alip-default-settings
 Architecture: all
