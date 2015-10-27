@@ -1,0 +1,17 @@
+Source: alip-default-settings
+Section: x11
+Priority: optional
+Maintainer: Ricardo Salveti <ricardo.salveti@linaro.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: alip-default-settings
+Architecture: all
+Pre-Depends: ${misc:Pre-Depends}
+Depends: ${misc:Depends},
+         lxsession (>= 0.4.1),
+         alip-artwork,
+         alip-icon-theme,
+         alip-lxpanel-icons
+Description: default settings for Linaro ALIP
+ Various system settings tailored for Linaro ALIP.
