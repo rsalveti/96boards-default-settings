@@ -1,19 +1,19 @@
-Source: alip-default-settings
+Source: 96boards-default-settings
 Section: x11
 Priority: optional
 Maintainer: Ricardo Salveti <ricardo.salveti@linaro.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
-Vcs-Git: https://github.com/rsalveti/alip-default-settings.git
-Homepage: https://github.com/rsalveti/alip-default-settings
+Vcs-Git: https://github.com/rsalveti/96boards-default-settings.git
+Homepage: https://github.com/rsalveti/96boards-default-settings
 
-Package: alip-default-settings
+Package: 96boards-default-settings
 Architecture: all
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends},
          lxsession (>= 0.4.1),
-         alip-artwork,
-         alip-icon-theme,
-         alip-lxpanel-icons
-Description: default settings for Linaro ALIP
- Various system settings tailored for Linaro ALIP.
+         96boards-artwork,
+         96boards-icon-theme,
+         96boards-lxpanel-icons
+Description: default settings for 96Boards
+ Various system settings tailored for 96Boards.

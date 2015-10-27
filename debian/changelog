@@ -1,10 +1,4 @@
-alip-default-settings (0.2) jessie; urgency=medium
-
-  * Bump standards version to 3.9.6
-
- -- Ricardo Salveti de Araujo <ricardo.salveti@linaro.org>  Tue, 27 Oct 2015 01:57:01 -0200
-
-alip-default-settings (0.1) jessie; urgency=medium
+96boards-default-settings (0.1) UNRELEASED; urgency=medium
 
   * Initial upload
 

@@ -1,5 +1,0 @@
-[Desktop Entry]
-Name=ALIP
-Comment=ALIP - Lightweight X11 desktop environment based on LXDE
-Exec=/usr/bin/startlxde-alip
-Type=Application

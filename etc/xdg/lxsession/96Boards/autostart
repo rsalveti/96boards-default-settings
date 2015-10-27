@@ -1,3 +1,3 @@
-@lxpanel --profile ALIP
+@lxpanel --profile 96Boards
 @pcmanfm --desktop --profile LXDE
 @xscreensaver -no-splash
