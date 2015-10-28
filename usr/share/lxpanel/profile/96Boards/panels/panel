@@ -16,7 +16,7 @@ Global {
   alpha=0
   setdocktype=1
   setpartialstrut=1
-  usefontcolor=1
+  usefontcolor=0
   fontcolor=#ffffff
   background=0
   backgroundfile=/usr/share/lxpanel/images/background.png
