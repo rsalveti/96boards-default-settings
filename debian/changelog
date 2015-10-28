@@ -1,4 +1,4 @@
-96boards-default-settings (0.2) UNRELEASED; urgency=medium
+96boards-default-settings (0.2) jessie; urgency=medium
 
   * Set our own wallpaper via pcmanfm.conf
 
