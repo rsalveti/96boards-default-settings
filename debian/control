@@ -10,10 +10,7 @@ Homepage: https://github.com/rsalveti/96boards-default-settings
 Package: 96boards-default-settings
 Architecture: all
 Pre-Depends: ${misc:Pre-Depends}
-Depends: ${misc:Depends},
-         lxsession (>= 0.4.1),
-         96boards-artwork,
-         96boards-icon-theme,
-         96boards-lxpanel-icons
+Depends: linaro-default-settings,
+         ${misc:Depends}
 Description: default settings for 96Boards
- Various system settings tailored for 96Boards.
+ Empty package, since linaro-default-settings provides everything.

@@ -1,3 +1,10 @@
+96boards-default-settings (0.3) UNRELEASED; urgency=medium
+
+  * Package currently replaced by linaro-default-settings, so making it an
+    empty package to avoid breaking transition
+
+ -- Ricardo Salveti de Araujo <rsalveti@rsalveti.net>  Wed, 18 Nov 2015 15:00:06 -0200
+
 96boards-default-settings (0.2) jessie; urgency=medium
 
   * Set our own wallpaper via pcmanfm.conf

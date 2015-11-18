@@ -1,5 +1,0 @@
-[Desktop Entry]
-Name=96Boards
-Comment=96Boards - Lightweight X11 desktop environment based on LXDE
-Exec=/usr/bin/startlxde-96boards
-Type=Application
